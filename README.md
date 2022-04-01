@@ -18,7 +18,7 @@ Implementation of the regressors for:
 
 # Imports
 
-sklearn[https://scikit-learn.org/stable/]
+[sklearn][https://scikit-learn.org/stable/]
 
 pandas[https://pandas.pydata.org/]
 
