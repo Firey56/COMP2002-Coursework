@@ -14,3 +14,14 @@ Implementation of the regressors for:
  
  ### 1.3: Assessment of Regression
  The regression models are being cross referenced using scikit-learn using cross validation. They are being judged on the mean squared error.
+
+
+# Imports
+
+sklearn[https://scikit-learn.org/stable/]
+
+pandas[https://pandas.pydata.org/]
+
+numpy[https://numpy.org/]
+
+matplotlib[https://matplotlib.org/]
