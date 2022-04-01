@@ -18,10 +18,10 @@ Implementation of the regressors for:
 
 # Imports
 
-[sklearn][https://scikit-learn.org/stable/]
+[sklearn](https://scikit-learn.org/stable/)
 
-pandas[https://pandas.pydata.org/]
+[pandas](https://pandas.pydata.org/)
 
-numpy[https://numpy.org/]
+[numpy](https://numpy.org/)
 
-matplotlib[https://matplotlib.org/]
+[matplotlib](https://matplotlib.org/)
